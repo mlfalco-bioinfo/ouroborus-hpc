@@ -12,7 +12,7 @@ Por padrão, apenas o usuário `root` pode gerenciar VMs. Para facilitar o proce
 
 Precisamos da matéria-prima, a partir do qual os **nós** do nosso cluster serão criados. Faremos o download da imagem de instalação do **Rocky Linux 9**.
 
-Acesse o site oficial de downloads: 
+Acesse o site oficial de downloads: ![OS](https://img.shields.io/badge/Guest_OS-Rocky_Linux_9-green?style=for-the-badge&logo=rockylinux)
 
 Baixe a imagem Minimal da ISO do Rocky Linux 9 para a arquitetura x86_64 (escolha sua arquitetura). A imagem "Minimal" é a escolha profissional para servidores, pois contém apenas o sistema operacional essencial, sem interfaces gráficas ou pacotes desnecessários. Isso resulta em VMs mais leves, seguras e com uma superfície de ataque menor.
 
