@@ -28,4 +28,4 @@ By the end of this guide, you will have built the following architecture:
 
 Let's begin!
 
-➡️ **Next Step: [Phase 1: Host Preparation](01_host_preparation.md)**
+**Next Step: [Phase 1: Host Preparation](01_host_preparation.md)**

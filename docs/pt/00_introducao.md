@@ -28,4 +28,4 @@ Ao final deste guia, você terá construído a seguinte arquitetura:
 
 Vamos começar!
 
-➡️ **Próximo passo: [Fase 1: Preparação do Host](01_preparacao_host.md)**
+**Próximo passo: [Fase 1: Preparação do Host](01_preparacao_host.md)**
